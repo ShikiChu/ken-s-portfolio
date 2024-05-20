@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Data Annotation Tech",
+    "startDate": "Mar 2024",
+    "endDate": "Present",
+    "experiences": ["AI Training", "Debug Codes", "Evaluated and modify AI code responses", "Data analysis using Python(numpy,pandas,matplotlib)"],
+    "imageSrc": "history/da_logo.jpeg"
+  },
+  {
+    "role": "Full-Stack Developer",
+    "organisation": "Francesco's Coffee Company Inc",
+    "startDate": "May, 2023",
+    "endDate": "May, 2024",
+    "experiences": ["WordPress Plugin Development", "In-house Software Development", "Resolve client bug reports","Restful APIs Development"],
+    "imageSrc": "history/fcc_logo.png"
+  },
+  {
+    "role": "Web Developer Assistant",
+    "organisation": "AE Gloabl Limited",
+    "startDate": "Aug, 2020",
+    "endDate": "Aug, 2021",
+    "experiences": [
+      "Created UI components",
+      "Conducted business plans",
+      "Executed SEO strategies"
+    ],
+    "imageSrc": "history/ar_logo.jpg"
+  }
+]

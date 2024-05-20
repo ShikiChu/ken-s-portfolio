@@ -1,0 +1,51 @@
+[
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Vue",
+    "imageSrc": "skills/Vue.png"
+  },
+  {
+    "title": "ASP.NET",
+    "imageSrc": "skills/NET_Core.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/spring-boot-logo.png"
+  },
+  {
+    "title": "Rails",
+    "imageSrc": "skills/Rails.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/PostgreSQL.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/Python.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/c_sharp.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php_logo.png"
+  }
+]

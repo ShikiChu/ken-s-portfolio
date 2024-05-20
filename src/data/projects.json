@@ -1,0 +1,67 @@
+[
+  {
+    "title": "E-commerce Management App",
+    "imageSrc": "projects/project.png",
+    "description": "An integrated platform designed to streamline order and product management for E-commerce businesses, akin to Shopify or WordPress. Ideal for enterprises managing multiple E-commerce sites, it offers centralized control and efficiency in operations.",
+    "skills": ["Ruby On Rails", "React, SCSS", "RestfulAPI" ],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Shipping App",
+    "imageSrc": "projects/shipping.png",
+    "description": "Created a comprehensive application enabling businesses to centrally manage shipping orders within a unified platform.",
+    "skills": ["React", "ASP.NET", "RestfulAPI"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Travel Agency website UI",
+    "imageSrc": "projects/travel_site.png",
+    "description": "A dynamic UI design for a travel agency website, seamlessly integrable with Express or other server-side languages for enhanced functionality.",
+    "skills": ["React", "SCSS"],
+    "demo": "https://shikichu.github.io/travel_site_react/",
+    "source": "https://github.com/ShikiChu/travel_site_react"
+  },
+  {
+    "title": "Payout Report System",
+    "imageSrc": "projects/payout.png",
+    "description": "Visualize data through PDF reports and offer diverse payment options via API integration.",
+    "skills": ["React", "Express", "RestfulAPI"],
+    "demo": "",
+    "source": ""
+  }
+  ,{
+    "title": "Resturant Review App",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and deployed a review application on IIS, facilitating various users to create, update, and delete reviews seamlessly.",
+    "skills": ["React", "ASP.NET", "Bootstrap"],
+    "demo": "",
+    "source": "https://github.com/ShikiChu/RestaurantReviewsRecord"
+  }
+  ,{
+    "title": "E-commerce Shipping Methods - Integrated with Woocommerce",
+    "imageSrc": "projects/project.png",
+    "description": "Implemented dynamic shipping price calculations on subtotal pages, adjusting based on quantity and address for accurate cost estimations.",
+    "skills": ["PHP", "JavaScript", "CSS"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Product Label Generator Application - WordPress Plugin Development",
+    "imageSrc": "projects/project.png",
+    "description": "Engineered a system to dynamically generate product labels, seamlessly integrating clients' uploaded images and extracting order data for smooth printing processes.",
+    "skills": ["PHP", "JavaScript", "CSS"],
+    "demo": "",
+    "source": ""
+  }
+  ,{
+    "title": "Business Dashbroad - WordPress Plugin Development",
+    "imageSrc": "projects/project.png",
+    "description": "Created a comprehensive dashboard to efficiently manage orders across multiple sites.",
+    "skills": ["PHP", "JavaScript", "CSS"],
+    "demo": "",
+    "source": ""
+  }
+  
+]
